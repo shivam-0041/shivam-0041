@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I am a student in computer science and have a keen interest in upcoming technologies like Artificial Intelligence and Robotics. I am a curious and quick learner trying to always learn new things.
+I am a student in computer science and have a keen interest in upcoming technologies like Artificial Intelligence and Robotics and Cyber Security. I am a curious and quick learner trying to always learn new things.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shivambhardwaj1504@gmail.com](mailto:shivambhardwaj1504@gmail.com)
