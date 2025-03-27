@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a student in computer science and have a keen interest in upcoming technologies like Artificial Intelligence and Robotics and Cyber Security. I am a curious and quick learner trying to always learn new things.
 
 * 🌍  I'm based in India
-* 🧠  I'm learning Django and React JS
+* 🧠  I'm learning about Machine Learning, CyberSecurity, and Web Devlopment.
 
 ### Skills
 
