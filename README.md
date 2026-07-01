@@ -1,32 +1,102 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shivam
-=============================================================================================================================
+# Hi there, I'm Shivam <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="Hi">
 
+==================================================================================================================
 
------------------------
+### Software Developer | AI Enthusiast | Full-Stack Developer
 
-I am a student in computer science and have a keen interest in upcoming technologies like Artificial Intelligence and Robotics and Cyber Security. I am a curious and quick learner trying to always learn new things.
+I'm a Computer Science student passionate about building scalable web applications, AI-powered software, and developer tools. I enjoy solving real-world problems through software while continuously exploring modern technologies and software engineering practices.
 
-* 🌍  I'm based in India
-* 🧠  I'm learning about Machine Learning, CyberSecurity, and Web Devlopment.
+- 🌍 Based in India
+- 🎓 Computer Science Student
+- 🚀 Creator of **DevSync**, an AI-powered collaborative development platform
+- 🤖 Currently exploring **AI Agents**, **Agentic Workflows**, and **LLM-powered applications**
+- 🔄 Learning **n8n** to design and automate agentic workflows
+- ⚡ Interested in Backend Development, Software Architecture, AI Applications, and Developer Tools
 
-### Skills
+---
 
+## 🚀 Featured Project
+
+### 🔹 DevSync
+
+An AI-powered collaborative software development platform built using **Django**, **React**, and **PostgreSQL**.
+
+#### Features
+
+- User Authentication & Authorization
+- Team & Project Management
+- Real-time Collaboration
+- Whiteboard
+- Role level access
+- Chat System
+- REST APIs
+- Modern Responsive UI
+
+---
+
+## 🛠 Skills
+
+### Languages
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,html,css" />
 </p>
 
+### Frameworks & Libraries
 
-### Socials
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django,react,tailwind" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/shivam-0041" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shivam-34a05a286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Databases
 
-### Badges
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-<b>My GitHub Stats</b>
+### Tools & Technologies
 
-<a href="http://www.github.com/shivam-0041"><img src="https://github-readme-stats.vercel.app/api?username=shivam-0041&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shivam-0041's GitHub stats" /></a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,github" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/>
+</p>
 
-<a href="http://www.github.com/shivam-0041"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-0041&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/shivam-0041" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-0041&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🌱 Currently Learning & Exploring
+
+- AI Agents
+- Agentic Workflows
+- n8n Automation
+- Large Language Model (LLM) Applications
+- Multi-Agent Systems
+- Distributed Systems
+- Software Architecture
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/shivam-0041" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-34a05a286" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam-0041&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-0041&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-0041&theme=github-dark&hide_border=true"/>
+</p>
